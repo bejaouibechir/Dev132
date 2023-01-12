@@ -1,0 +1,9 @@
+D:\Doranco132\Doranco132Solution\Doranco132.ADOSqlServer\bin\Debug\Doranco132.ADOSqlServer.dll
+D:\Doranco132\Doranco132Solution\Doranco132.ADOSqlServer\bin\Debug\Doranco132.ADOSqlServer.pdb
+D:\Doranco132\Doranco132Solution\Doranco132.ADOSqlServer\bin\Debug\Doranco132.Model.dll
+D:\Doranco132\Doranco132Solution\Doranco132.ADOSqlServer\bin\Debug\Doranco132.Model.pdb
+D:\Doranco132\Doranco132Solution\Doranco132.ADOSqlServer\obj\Debug\Doranco132.ADOSqlServer.csproj.AssemblyReference.cache
+D:\Doranco132\Doranco132Solution\Doranco132.ADOSqlServer\obj\Debug\Doranco132.ADOSqlServer.csproj.CoreCompileInputs.cache
+D:\Doranco132\Doranco132Solution\Doranco132.ADOSqlServer\obj\Debug\Doranco132.ADOSqlServer.csproj.CopyComplete
+D:\Doranco132\Doranco132Solution\Doranco132.ADOSqlServer\obj\Debug\Doranco132.ADOSqlServer.dll
+D:\Doranco132\Doranco132Solution\Doranco132.ADOSqlServer\obj\Debug\Doranco132.ADOSqlServer.pdb

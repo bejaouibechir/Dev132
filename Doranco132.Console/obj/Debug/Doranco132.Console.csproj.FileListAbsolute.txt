@@ -1,0 +1,13 @@
+D:\Doranco132\Doranco132Solution\Doranco132.Console\obj\Debug\Doranco132.Console.csproj.AssemblyReference.cache
+D:\Doranco132\Doranco132Solution\Doranco132.Console\obj\Debug\Doranco132.Console.csproj.SuggestedBindingRedirects.cache
+D:\Doranco132\Doranco132Solution\Doranco132.Console\obj\Debug\Doranco132.Console.csproj.CoreCompileInputs.cache
+D:\Doranco132\Doranco132Solution\Doranco132.Console\bin\Debug\Doranco132.Console.exe.config
+D:\Doranco132\Doranco132Solution\Doranco132.Console\bin\Debug\Doranco132.Console.exe
+D:\Doranco132\Doranco132Solution\Doranco132.Console\bin\Debug\Doranco132.Console.pdb
+D:\Doranco132\Doranco132Solution\Doranco132.Console\obj\Debug\Doranco132.Console.exe
+D:\Doranco132\Doranco132Solution\Doranco132.Console\obj\Debug\Doranco132.Console.pdb
+D:\Doranco132\Doranco132Solution\Doranco132.Console\bin\Debug\Doranco132.ADOSqlServer.dll
+D:\Doranco132\Doranco132Solution\Doranco132.Console\bin\Debug\Doranco132.Model.dll
+D:\Doranco132\Doranco132Solution\Doranco132.Console\bin\Debug\Doranco132.ADOSqlServer.pdb
+D:\Doranco132\Doranco132Solution\Doranco132.Console\bin\Debug\Doranco132.Model.pdb
+D:\Doranco132\Doranco132Solution\Doranco132.Console\obj\Debug\Doranco132.Console.csproj.CopyComplete
