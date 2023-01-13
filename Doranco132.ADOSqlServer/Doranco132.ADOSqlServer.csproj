@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DepConnectedAdoContext.cs" />
+    <Compile Include="EmpDisConnectedAdoContext.cs" />
+    <Compile Include="DepDisConnectedAdoContext.cs" />
     <Compile Include="EmpConnectedAdoContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

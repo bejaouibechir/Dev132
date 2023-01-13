@@ -84,7 +84,7 @@ namespace Doranco132.ADOSqlServer
              }
         }
 
-        public Employee Get(int id)
+        public virtual Employee Get(int id)
         {
             Employee current = new Employee();
             _query = $"SELECT [Id] ,[Name],[Salary] FROM [dbo].[Employee] WHERE  [Id]={id}";
@@ -112,7 +112,7 @@ namespace Doranco132.ADOSqlServer
             return current;
         }
 
-        public IQueryable<Employee> GetList()
+        public virtual IQueryable<Employee> GetList()
         {
             List<Employee> employees = new List<Employee>();
             Employee current;

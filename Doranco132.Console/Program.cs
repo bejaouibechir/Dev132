@@ -4,6 +4,7 @@
 using Doranco132.Model;
 using Doranco132.ADOSqlServer;
 using System.Linq;
+using System.Net.Http.Headers;
 
 namespace Doranco132.Console
 {
@@ -13,8 +14,10 @@ namespace Doranco132.Console
     {
         static void Main(string[] args)
         {
-           
-            
+            DepDisConnectedAdoContext context = new DepDisConnectedAdoContext();
+            var departments = context.GetList();
+        
+
             System.Console.Read();
         }
     }
