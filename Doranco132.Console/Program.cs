@@ -5,24 +5,53 @@ using Doranco132.Model;
 using Doranco132.ADOSqlServer;
 using System.Linq;
 using System.Net.Http.Headers;
+using System.Collections.Generic;
+using System.Data.SqlClient;
+using System.Diagnostics;
+using System.Xml.Linq;
+using System.Dynamic;
 
 namespace Doranco132.Console
 {
+
    
+
     //Client
     internal class Program
     {
-        static void Main(string[] args)
+        static public void Main(string[] args)
         {
-            DepDisConnectedAdoContext context = new DepDisConnectedAdoContext();
-            var departments = context.GetList();
-        
 
-            System.Console.Read();
-        }
+            //En cas de fichier xml utilisez Load en passant le chemin vers le fichier
+            //En cas de chaine xml utilisez parse en passant la chaine qui représente le xml
+            var document = XDocument.Load("D:\\employees.xml");
+            var root = document.Root;
+
+           
+           
+
+            var elements = from el in root.Descendants()
+                           let attributes = el.Attributes()
+                           from attribute in attributes
+                           select new
+                           {
+                               PropertyName = attribute.Name,
+                               PropertyValue = attribute.Value
+                           };
+
+
+            System.Console.ReadLine();
+
+      }
+       
     }
 }
 
+
+
+//------------------------Code d'appel mode ADO Déconnecté-------------------------
+//DepDisConnectedAdoContext context = new DepDisConnectedAdoContext();
+//var departments = context.GetList();
 
 
 //------------------------Code d'appel ADO Connecté--------------------------------

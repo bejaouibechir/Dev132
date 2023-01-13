@@ -56,6 +56,7 @@
     <Compile Include="DesignPattern\RepositoryPattern\ImplSqlServer\DepartementRepository.cs" />
     <Compile Include="DesignPattern\RepositoryPattern\ImpPostgreSQL\DepartementRepository.cs" />
     <Compile Include="DesignPattern\RepositoryPattern\ImpPostgreSQL\EmployeeRepository.cs" />
+    <Compile Include="EnmerableExtesnion.cs" />
     <Compile Include="Model\Departement.cs" />
     <Compile Include="Model\DepartementV2.cs" />
     <Compile Include="Model\Employee.cs" />

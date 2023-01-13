@@ -1,0 +1,13 @@
+D:\Doranco132\Doranco132Solution\Dev132.EF.CodeFirst\bin\Debug\Dev132.EF.CodeFirst.exe.config
+D:\Doranco132\Doranco132Solution\Dev132.EF.CodeFirst\bin\Debug\Dev132.EF.CodeFirst.exe
+D:\Doranco132\Doranco132Solution\Dev132.EF.CodeFirst\bin\Debug\Dev132.EF.CodeFirst.pdb
+D:\Doranco132\Doranco132Solution\Dev132.EF.CodeFirst\bin\Debug\EntityFramework.dll
+D:\Doranco132\Doranco132Solution\Dev132.EF.CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Doranco132\Doranco132Solution\Dev132.EF.CodeFirst\bin\Debug\EntityFramework.xml
+D:\Doranco132\Doranco132Solution\Dev132.EF.CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Doranco132\Doranco132Solution\Dev132.EF.CodeFirst\obj\Debug\Dev132.EF.CodeFirst.csproj.AssemblyReference.cache
+D:\Doranco132\Doranco132Solution\Dev132.EF.CodeFirst\obj\Debug\Dev132.EF.CodeFirst.csproj.SuggestedBindingRedirects.cache
+D:\Doranco132\Doranco132Solution\Dev132.EF.CodeFirst\obj\Debug\Dev132.EF.CodeFirst.csproj.CoreCompileInputs.cache
+D:\Doranco132\Doranco132Solution\Dev132.EF.CodeFirst\obj\Debug\Dev132.EF.CodeFirst.csproj.CopyComplete
+D:\Doranco132\Doranco132Solution\Dev132.EF.CodeFirst\obj\Debug\Dev132.EF.CodeFirst.exe
+D:\Doranco132\Doranco132Solution\Dev132.EF.CodeFirst\obj\Debug\Dev132.EF.CodeFirst.pdb
