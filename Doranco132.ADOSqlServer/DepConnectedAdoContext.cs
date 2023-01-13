@@ -10,6 +10,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Configuration;
 
 namespace Doranco132.ADOSqlServer
 {
@@ -20,11 +21,14 @@ namespace Doranco132.ADOSqlServer
         protected SqlCommand _command;
         SqlDataReader _reader;
         protected string _query = string.Empty;
+        protected string connstring;
 
+        //Remarque: Noubliez pas de changer le nom du serveur au niveau du fichier App.config
         public DepConnectedAdoContext()
         {
-            _connection = new SqlConnection("Data Source=PC2022\\DORANCOSRV;" +
-                "Initial Catalog=FirmDB;Integrated Security=True");  
+            connstring = ConfigurationManager
+                .ConnectionStrings["firmconnection"].ConnectionString;
+            _connection = new SqlConnection(connstring);  
         }
 
         public void Add(Department departement)
